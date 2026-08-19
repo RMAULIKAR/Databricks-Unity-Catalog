@@ -4,7 +4,7 @@ A hands-on practice repository created to build practical understanding of **Azu
 
 The repository focuses on understanding how Databricks features work in practice rather than only learning their theoretical concepts.
 
-## 📚 Topics Covered
+##  Topics Covered
 
 * **Databricks Workflows** for notebook orchestration
 * **Delta Lake** and the structure of Delta tables
@@ -20,7 +20,7 @@ The repository focuses on understanding how Databricks features work in practice
 
 ---
 
-## 📓 Practice Notebooks
+##  Practice Notebooks
 
 | Notebook            | Purpose                                                                                                                                                              |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ The repository focuses on understanding how Databricks features work in practice
 
 ---
 
-## 🔹 Delta Lake Practice
+##  Delta Lake Practice
 
 The `delta_tutorial.py` notebook focuses on building a practical understanding of **Delta Lake**.
 
@@ -50,7 +50,7 @@ The objective is to understand **how Delta Lake works internally and how to inte
 
 ---
 
-## 🔹 Unity Catalog Practice
+##  Unity Catalog Practice
 
 The `tutorial_1.py` notebook focuses on understanding **Unity Catalog and Databricks data organization** through hands-on experimentation.
 
@@ -72,7 +72,7 @@ The focus is on understanding the relationship between these objects and how Dat
 
 ---
 
-## 🔹 Databricks Workflows
+##  Databricks Workflows
 
 `Notebook1.py` and `Notebook2.py` are used to demonstrate **Databricks Workflow concepts**, including running notebooks as part of an orchestrated workflow.
 
@@ -80,7 +80,7 @@ The purpose is to gain practical exposure to how multiple notebook tasks can be 
 
 ---
 
-## 🔹 Auto Loader
+##  Auto Loader
 
 `AutoLoader.py` provides hands-on practice with **Databricks Auto Loader** for incremental file ingestion.
 
@@ -88,7 +88,7 @@ The notebook focuses on understanding how new files can be detected and processe
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The purpose of this repository is to demonstrate practical understanding of key **Azure Databricks data engineering concepts** through hands-on experimentation, with particular focus on:
 
